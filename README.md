@@ -5,5 +5,5 @@ System Science Hub Challenge.
 
 ## Templates
 
-Please use the Jupyternotebook and the presentation templates in the directory
+Please use the jupyter notebook and the presentation templates in the directory
 `/templates` to submit your results.
